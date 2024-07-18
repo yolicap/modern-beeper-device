@@ -4,4 +4,4 @@ basically it's like those expensive little computer speakers but it's cute n scr
 
 # pcb in progress
 ![pcb screenshot](pcb_screenshot.png)
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://tenor.com/view/cat-puking-gif-21988524))
+![](cat-puking.gif)
