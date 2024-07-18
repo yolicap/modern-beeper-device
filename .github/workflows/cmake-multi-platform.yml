@@ -1,3 +1,6 @@
+# this is a work in progress too. just ignore this shit.. maybe if i didnt have so much homework i
+# could actually finish this project. i cant wait to graduate.. ive been in school for way too long
+
 # This starter workflow is for a CMake project running on multiple platforms. There is a different starter workflow if you just want a single platform.
 # See: https://github.com/actions/starter-workflows/blob/main/ci/cmake-single-platform.yml
 name: CMake on multiple platforms
